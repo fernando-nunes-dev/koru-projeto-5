@@ -6,8 +6,8 @@
 
 Um projeto didático que implementa duas formas de consultar endereços brasileiros a partir de um CEP: uma ferramenta de linha de comando (CLI) e uma interface web responsiva.
 
-![Demonstração da Interface Web](https://imgur.com/a/2t5WWDS)
-*(Sugestão: tire um print da sua aplicação funcionando e substitua o link acima para exibir sua própria imagem)*
+![Projeto-5](https://github.com/user-attachments/assets/2ce7894d-6660-4501-8bb4-2fe0c89196da)
+
 
 ## Sobre o Projeto
 
