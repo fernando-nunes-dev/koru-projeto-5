@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Consulta de CEP</title>
+
+    <link rel="stylesheet" href="../reset/reset.css">
+    <link rel="stylesheet" href="../front-cep-cli/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Consulta de Endereço por CEP</h1>
+      <p>Digite um CEP para encontrar o endereço correspondente.</p>
+      <div class="search-box">
+        <input
+          type="text"
+          id="cep-input"
+          placeholder="Digite o CEP (só números)"
+        />
+        <button id="search-btn">Buscar</button>
+      </div>
+      <div id="result-box"></div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

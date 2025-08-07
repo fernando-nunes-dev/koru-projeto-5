@@ -1,0 +1,27 @@
+/* Remove margem e padding de todos os elementos */
+* {
+	margin: 0;
+	color: #fff;
+	box-sizing: border-box;
+  }
+  
+  /* Remove a decoração de links */
+  a {
+	text-decoration: none;
+	color: inherit;
+  }
+  
+  /* Remove listas sem marcações */
+  ul, ol {
+	list-style: none;
+  }
+  
+  /* Padroniza o tamanho de fontes */
+  html {
+	font-size: 100%;
+  }
+  
+  /* Remove sublinhado e bordas de links em estados de foco */
+  a:focus {
+	outline: none;
+  }
