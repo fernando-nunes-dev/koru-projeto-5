@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
             buscarCep();
         }
     });
+    
 
     // Função para buscar o CEP
     async function buscarCep() {
